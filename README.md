@@ -9,7 +9,7 @@ Files included in the project:
 	
  run_analysis.R => code with all logic created for this assignment.
  
- codebook => variables and code explanation
+ codebook.md => variables and code explanation
 
  Main topics for this assigment:
 	Merge data, reading/write data and aggregate functions.
